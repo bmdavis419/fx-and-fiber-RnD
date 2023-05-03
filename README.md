@@ -3,7 +3,7 @@
 ### IMPORTANT DOCUMENTATION LINKS
 
 - [Fiber](https://docs.gofiber.io/)
-- [fx](https://uber-go.github.io/fx/get-started/)
+- [fx **READ THIS FIRST**](https://uber-go.github.io/fx/get-started/)
 
 ### What is this?
 
